@@ -1,6 +1,6 @@
 # Hand Plane
 
-> Woodworking > Process > S4S > Hand Tools
+> [Woodworking](../../../README.md) > Process > [S4S](../README.md) > Hand Tools
 
 ## Summary
 

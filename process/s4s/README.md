@@ -1,6 +1,6 @@
 # S4S
 
-> Woodworking > Process > S4S
+> [Woodworking](../../README.md) > Process > S4S
 
 ## Methods
 
@@ -35,5 +35,3 @@
 * [Stock Prep by Hand – Christopher Schwarz - YouTube](https://www.youtube.com/watch?v=2_96gNMMc_g&ab_channel=PopularWoodworking)
 
 * [How To Flatten A Workbench Top With Hand Planes - 248 - YouTube](https://www.youtube.com/watch?v=PwLY-zbqA2g&ab_channel=JayBates)
-
-* 
