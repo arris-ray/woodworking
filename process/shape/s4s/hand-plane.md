@@ -1,6 +1,6 @@
 # Hand Plane
 
-> [Woodworking](../../../../README.md) > [Process](../../../README.md) > [Shape](../../README.md) > [S4S](../README.md) > Hand Plane
+> [Woodworking](../../../README.md) > [Process](../../README.md) > [Shape](../README.md) > [S4S](./README.md) > Hand Plane
 
 ## Summary
 
