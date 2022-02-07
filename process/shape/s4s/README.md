@@ -16,7 +16,7 @@
 
 ### Hand Tools
 
-* [Hand Plane](./hand-tools/hand-plane.md)
+* [Hand Plane](./hand-plane.md)
 
 * Combination Square 
 
