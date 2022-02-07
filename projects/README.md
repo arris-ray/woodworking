@@ -12,4 +12,4 @@
 
 ## Advanced
 
-- [Workbench](./projects/workbench/README.md)
+- [Workbench](./workbench/README.md)

@@ -65,3 +65,5 @@
 - [Essential Woodworking Skills - Japanese Saws 101, Tips, Tricks and Buying Advice - YouTube](https://www.youtube.com/watch?v=pT60__jvTb4&ab_channel=JonathanKatz-Moses)
 
 - [Perfect square cuts with hand tools. - YouTube](https://youtu.be/HsGrAqSB5Cc)
+
+- https://www.amazon.com/Vaughan-Bushnell-BS250D-Double-Handsaw/dp/B00004Z2X8/ref=as_li_ss_tl?keywords=vaughn+saw&qid=1556577866&s=gateway&sr=8-2&linkCode=sl1&tag=rexkrueger04-20&linkId=bb3a0f4e5b00432aec5c78d3021801fe&language=en_US
