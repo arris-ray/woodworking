@@ -1,12 +1,14 @@
 # Hand Plane
 
-> [Woodworking](../../../README.md) > Process > [S4S](../README.md) > Hand Tools
+> [Woodworking](../../../../README.md) > [Shape](../../README.md) > [S4S](../README.md) > Hand Tools
 
 ## Summary
 
+* Planes are basically a jig for a blade
+
 * Wood vs metal planes
 
-* Stanley-Bailey style planes are the de-facto standard metal planes
+* Stanley-Bailey style planes are the de-facto standard for metal planes
 
 * Minimum recommended set for S4S
   
@@ -14,11 +16,11 @@
   
   * No. 5 - Jack Plane
   
-  * No. 7 - Jointer Plane, Try Plane (optional)
+  * No. 7 - Jointer/Try Plane (optional)
 
 * Buy used and [evaluate the plane's type](https://www.popularwoodworking.com/wp-content/uploads/pdatechart.pdf)
   
-  * Each model has an ideal manufacturing period
+  * Each model has an ideal manufacturing period that has the best combination of materials and features
     
     * No. 4 - ???
     * No. 5 - Type 10-15
@@ -50,7 +52,8 @@
 
 - [Timeless Tools & Treasures Store](https://www.shorthillstudio.com/store.php?cat=1) - 
   
-  - (-) Inventory is limited and more of a crap shoot
+  - (-) Inventory is limited
+  - (-) Significantly less frequent turnover of inventory
 
 - https://www.facebook.com/groups/CanIHaveItToolAuctions - 
   
@@ -101,3 +104,5 @@
 - [Build The ULTIMATE Sharpening Station - YouTube](https://www.youtube.com/watch?v=iBskJa4M9Aw&ab_channel=SimpleCove)
 
 - [Edge Sharpening Under £10 - Paul Sellers' Blog](https://paulsellers.com/2020/03/edge-sharpening-under-10/)
+
+- [Hand Plane Prep - File Recommendations - FineWoodworking](https://www.finewoodworking.com/forum/hand-plane-prep-file-recommendations)

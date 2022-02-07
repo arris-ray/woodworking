@@ -1,6 +1,6 @@
 # S4S
 
-> [Woodworking](../../README.md) > Process > S4S
+> [Woodworking](../../../README.md) > [Shape](../README.md) > S4S
 
 ## Methods
 
