@@ -30,15 +30,41 @@
 
 * Blade
   
-  * Sharpen
+  * Sharpening stones, e.g. whetstones, diamond plates, etc.
+  
+  * Leather strop with honing compound
+  
+  * Evaporust
 
 * Body
   
-  * Wood
+  * Sandpaper
   
-  * Brass
+  * Needle file
   
-  * Steel
+  * Steel Wool
+  
+  * Evaporust
+
+* Knob & Tote 
+  
+  * Boiled linseed oil
+  
+  * Paste wax
+  
+  * Steel Wool
+
+* Brass fixtures
+  
+  * Brasso
+  
+  * Leather strop with honing compound
+
+* Steel fixtures
+  
+  * Evaporust
+  
+  * Leather strop with honing compound
 
 ## Shopping
 
@@ -106,3 +132,5 @@
 - [Edge Sharpening Under £10 - Paul Sellers' Blog](https://paulsellers.com/2020/03/edge-sharpening-under-10/)
 
 - [Hand Plane Prep - File Recommendations - FineWoodworking](https://www.finewoodworking.com/forum/hand-plane-prep-file-recommendations)
+
+- [Eliminating Plane Tracks - YouTube](https://youtu.be/0h0dVgm4jMk)
